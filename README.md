@@ -3,7 +3,7 @@ This is a Simple default Dotnet Core WebApi project.
 
 It was created as part of an exercise to learn how to deploy a full-stack app to Apache server running on an Ubuntu machine.
 
-The frontend of this app can be found <a href="https://github.com/baxishrey/apache-angular">here</a>.
+The frontend is an **Angular 7** app and can be found <a href="https://github.com/baxishrey/apache-angular">here</a>.
 
 ## How to use
 Clone this repo to your Ubuntu machine.
